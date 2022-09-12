@@ -71,7 +71,25 @@ dplyr::mutate(
   knitr::kable()
 ```
 
-## Práticas
+## Praticas
+
+```{r}
+pasta <- "praticas/"
+knitr::kable(
+  tibble::tibble(
+    script = CursoRopen:::list_github_files(params$turma, pasta, ".R$"),
+    link = paste0(
+      "https://github.com/curso-r/",
+      params$turma,
+      "/blob/master/",
+      script
+    )
+  ) |>
+    dplyr::mutate(script = glue::glue("[{script}]({link})")) |>
+    dplyr::select(script)
+)
+```
+
 
 ## Lição de casa
 

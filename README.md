@@ -34,7 +34,10 @@ Fora do horário de aula ou monitoria:
 | [07-iteracao.html](https://curso-r.github.io/main-web-scraping/slides/07-iteracao.html)                       | [07-iteracao.pdf](https://curso-r.github.io/main-web-scraping/slides/07-iteracao.pdf)                       |
 | [08-webdriver.html](https://curso-r.github.io/main-web-scraping/slides/08-webdriver.html)                     | [08-webdriver.pdf](https://curso-r.github.io/main-web-scraping/slides/08-webdriver.pdf)                     |
 
-## Práticas
+## Praticas
+
+| script |
+|:-------|
 
 ## Lição de casa
 
