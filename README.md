@@ -36,8 +36,10 @@ Fora do horário de aula ou monitoria:
 
 ## Praticas
 
-| script |
-|:-------|
+| script                                                                                                        |
+|:--------------------------------------------------------------------------------------------------------------|
+| [praticas/01-brasilapi.R](https://github.com/curso-r/202209-web-scraping/blob/master/praticas/01-brasilapi.R) |
+| [praticas/02-sabesp.R](https://github.com/curso-r/202209-web-scraping/blob/master/praticas/02-sabesp.R)       |
 
 ## Lição de casa
 
@@ -66,9 +68,6 @@ Fora do horário de aula ou monitoria:
 Referências extras relacionadas com o conteúdos das aulas, ou materiais
 que comentamos quando tiramos dúvidas (não necessariamente são
 relacionadas com o conteúdo da aula).
-
-    #> Warning: `flatten()` was deprecated in purrr 0.4.0.
-    #> Please use `list_flatten()` instead.
 
 | Aula | Tema                    | Descrição                                                                                                                                                                          |
 |-----:|:------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
