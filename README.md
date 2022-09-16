@@ -40,6 +40,10 @@ Fora do horário de aula ou monitoria:
 |:--------------------------------------------------------------------------------------------------------------|
 | [praticas/01-brasilapi.R](https://github.com/curso-r/202209-web-scraping/blob/master/praticas/01-brasilapi.R) |
 | [praticas/02-sabesp.R](https://github.com/curso-r/202209-web-scraping/blob/master/praticas/02-sabesp.R)       |
+| [praticas/03-sptrans.R](https://github.com/curso-r/202209-web-scraping/blob/master/praticas/03-sptrans.R)     |
+| [praticas/04-twitter.R](https://github.com/curso-r/202209-web-scraping/blob/master/praticas/04-twitter.R)     |
+| [praticas/05-covid.R](https://github.com/curso-r/202209-web-scraping/blob/master/praticas/05-covid.R)         |
+| [praticas/06-html.R](https://github.com/curso-r/202209-web-scraping/blob/master/praticas/06-html.R)           |
 
 ## Lição de casa
 
