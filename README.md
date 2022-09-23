@@ -46,6 +46,9 @@ Fora do horário de aula ou monitoria:
 | [praticas/06-html.R](https://github.com/curso-r/202209-web-scraping/blob/master/praticas/06-html.R)               |
 | [praticas/07-chancedegol.R](https://github.com/curso-r/202209-web-scraping/blob/master/praticas/07-chancedegol.R) |
 | [praticas/08-tjsp.R](https://github.com/curso-r/202209-web-scraping/blob/master/praticas/08-tjsp.R)               |
+| [praticas/09-glueup.R](https://github.com/curso-r/202209-web-scraping/blob/master/praticas/09-glueup.R)           |
+| [praticas/10-wiki.R](https://github.com/curso-r/202209-web-scraping/blob/master/praticas/10-wiki.R)               |
+| [praticas/12-jobs.R](https://github.com/curso-r/202209-web-scraping/blob/master/praticas/12-jobs.R)               |
 
 ## Lição de casa
 
