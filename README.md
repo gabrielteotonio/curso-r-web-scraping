@@ -49,6 +49,8 @@ Fora do horário de aula ou monitoria:
 | [praticas/09-glueup.R](https://github.com/curso-r/202209-web-scraping/blob/master/praticas/09-glueup.R)           |
 | [praticas/10-wiki.R](https://github.com/curso-r/202209-web-scraping/blob/master/praticas/10-wiki.R)               |
 | [praticas/12-jobs.R](https://github.com/curso-r/202209-web-scraping/blob/master/praticas/12-jobs.R)               |
+| [praticas/13-pesqele.R](https://github.com/curso-r/202209-web-scraping/blob/master/praticas/13-pesqele.R)         |
+| [praticas/14-pbi.R](https://github.com/curso-r/202209-web-scraping/blob/master/praticas/14-pbi.R)                 |
 
 ## Lição de casa
 
