@@ -77,7 +77,7 @@ dplyr::mutate(
 pasta <- "praticas/"
 knitr::kable(
   tibble::tibble(
-    script = CursoRopen:::list_github_files(params$turma, pasta, ".R$"),
+    script = CursoRopen:::list_github_files(params$turma, pasta, "\\.(R|yml|pt)$"),
     link = paste0(
       "https://github.com/curso-r/",
       params$turma,

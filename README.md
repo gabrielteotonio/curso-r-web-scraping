@@ -36,21 +36,26 @@ Fora do horário de aula ou monitoria:
 
 ## Praticas
 
-| script                                                                                                            |
-|:------------------------------------------------------------------------------------------------------------------|
-| [praticas/01-brasilapi.R](https://github.com/curso-r/202209-web-scraping/blob/master/praticas/01-brasilapi.R)     |
-| [praticas/02-sabesp.R](https://github.com/curso-r/202209-web-scraping/blob/master/praticas/02-sabesp.R)           |
-| [praticas/03-sptrans.R](https://github.com/curso-r/202209-web-scraping/blob/master/praticas/03-sptrans.R)         |
-| [praticas/04-twitter.R](https://github.com/curso-r/202209-web-scraping/blob/master/praticas/04-twitter.R)         |
-| [praticas/05-covid.R](https://github.com/curso-r/202209-web-scraping/blob/master/praticas/05-covid.R)             |
-| [praticas/06-html.R](https://github.com/curso-r/202209-web-scraping/blob/master/praticas/06-html.R)               |
-| [praticas/07-chancedegol.R](https://github.com/curso-r/202209-web-scraping/blob/master/praticas/07-chancedegol.R) |
-| [praticas/08-tjsp.R](https://github.com/curso-r/202209-web-scraping/blob/master/praticas/08-tjsp.R)               |
-| [praticas/09-glueup.R](https://github.com/curso-r/202209-web-scraping/blob/master/praticas/09-glueup.R)           |
-| [praticas/10-wiki.R](https://github.com/curso-r/202209-web-scraping/blob/master/praticas/10-wiki.R)               |
-| [praticas/12-jobs.R](https://github.com/curso-r/202209-web-scraping/blob/master/praticas/12-jobs.R)               |
-| [praticas/13-pesqele.R](https://github.com/curso-r/202209-web-scraping/blob/master/praticas/13-pesqele.R)         |
-| [praticas/14-pbi.R](https://github.com/curso-r/202209-web-scraping/blob/master/praticas/14-pbi.R)                 |
+| script                                                                                                                |
+|:----------------------------------------------------------------------------------------------------------------------|
+| [praticas/01-brasilapi.R](https://github.com/curso-r/202209-web-scraping/blob/master/praticas/01-brasilapi.R)         |
+| [praticas/02-sabesp.R](https://github.com/curso-r/202209-web-scraping/blob/master/praticas/02-sabesp.R)               |
+| [praticas/03-sptrans.R](https://github.com/curso-r/202209-web-scraping/blob/master/praticas/03-sptrans.R)             |
+| [praticas/04-twitter.R](https://github.com/curso-r/202209-web-scraping/blob/master/praticas/04-twitter.R)             |
+| [praticas/05-covid.R](https://github.com/curso-r/202209-web-scraping/blob/master/praticas/05-covid.R)                 |
+| [praticas/06-html.R](https://github.com/curso-r/202209-web-scraping/blob/master/praticas/06-html.R)                   |
+| [praticas/07-chancedegol.R](https://github.com/curso-r/202209-web-scraping/blob/master/praticas/07-chancedegol.R)     |
+| [praticas/08-tjsp.R](https://github.com/curso-r/202209-web-scraping/blob/master/praticas/08-tjsp.R)                   |
+| [praticas/09-glueup.R](https://github.com/curso-r/202209-web-scraping/blob/master/praticas/09-glueup.R)               |
+| [praticas/10-wiki.R](https://github.com/curso-r/202209-web-scraping/blob/master/praticas/10-wiki.R)                   |
+| [praticas/11-djt.R](https://github.com/curso-r/202209-web-scraping/blob/master/praticas/11-djt.R)                     |
+| [praticas/12-jobs.R](https://github.com/curso-r/202209-web-scraping/blob/master/praticas/12-jobs.R)                   |
+| [praticas/13-pesqele.R](https://github.com/curso-r/202209-web-scraping/blob/master/praticas/13-pesqele.R)             |
+| [praticas/14-pbi.R](https://github.com/curso-r/202209-web-scraping/blob/master/praticas/14-pbi.R)                     |
+| [praticas/15-scrape-curl.yml](https://github.com/curso-r/202209-web-scraping/blob/master/praticas/15-scrape-curl.yml) |
+| [praticas/16-scrape-r.yml](https://github.com/curso-r/202209-web-scraping/blob/master/praticas/16-scrape-r.yml)       |
+| [praticas/17-tjba.R](https://github.com/curso-r/202209-web-scraping/blob/master/praticas/17-tjba.R)                   |
+| [praticas/esaj.pt](https://github.com/curso-r/202209-web-scraping/blob/master/praticas/esaj.pt)                       |
 
 ## Lição de casa
 
