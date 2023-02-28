@@ -22,7 +22,7 @@ dados_cep <- httr::content(r_cep)
 dados_cep$location$coordinates$longitude
 
 content(r_cep)
-# cat(content(r_cep, as = "text"))
+cat(content(r_cep, as = "text"))
 content(r_cep, as = "text")
 content(r_cep, as = "raw")
 content(r_cep, as = "parsed")
